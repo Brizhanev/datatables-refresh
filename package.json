@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "js",
+    "DataTable",
+    "refresh",
+    "server-side"
+  ],
   "author": "Oleg Brizhanev <mr.brizhanev@yandex.ru>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brizhanev/datatables-refresh.git"
+  }
 }
