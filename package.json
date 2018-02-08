@@ -1,0 +1,11 @@
+{
+  "name": "datatables-refresh",
+  "version": "1.0.0",
+  "description": "Adds the \"update\" button to DataTable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Brizhanev <mr.brizhanev@yandex.ru>",
+  "license": "ISC"
+}
